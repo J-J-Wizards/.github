@@ -18,7 +18,7 @@ At J&J Wizards, we believe in the transformative power of technology. Our missio
 - **ID Number (IČO):** 22393404
 - **VAT Number (DIČ):** CZ22393404
 - **File Number:** C 54034
-- **Registered At:** Regional Court in Hradec Králové
+- **Registered At:** The Regional Court in Hradec Králové
 - **Headquarters:** Czech Republic
 
 ---
